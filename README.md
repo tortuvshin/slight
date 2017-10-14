@@ -1,4 +1,4 @@
-# android-image-loader
+# Android Image Loader
 Easy and flexible library for loading, caching and displaying images on Android.
 
 How to include
@@ -34,3 +34,27 @@ Or declare it into your `pom.xml`:
     <version>v1.0.0</version>
 </dependency>
 ```
+
+How to use
+---
+
+#### Basic Usage
+
+add the following permissions to your AndroidManifest.xml:
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+```
+@Override 
+public void onCreate(Bundle savedInstanceState) {
+  ...
+  ImageView imageView = (ImageView) findViewById(R.id.my_image_view);
+  
+  ImageLoader imageLoader=new ImageLoader(context);
+  
+  imageLoader.DisplayImage(url, imageView);
+}
+```
+
+    
