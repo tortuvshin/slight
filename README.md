@@ -1,5 +1,5 @@
 # Android Image Loader
-Easy and flexible library for loading, caching and displaying images on Android.
+Easy, sample and flexible library for loading, caching and displaying images on Android.
 
 How to include
 ---
