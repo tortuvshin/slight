@@ -14,7 +14,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.techstar-agency:android-image-loader:v1.0.0'
+    compile 'com.github.techstar-agency:AndroidImageLoader:v1.0.0'
 }
 ```
 
@@ -30,7 +30,7 @@ Or declare it into your `pom.xml`:
 
 <dependency>
     <groupId>com.github.techstar-agency</groupId>
-    <artifactId>android-image-loader</artifactId>
+    <artifactId>AndroidImageLoader</artifactId>
     <version>v1.0.0</version>
 </dependency>
 ```
