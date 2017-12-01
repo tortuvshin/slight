@@ -45,14 +45,14 @@ add the following permissions to your AndroidManifest.xml:
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
-```
+```js
 
 @Override 
 public void onCreate(Bundle savedInstanceState) {
   ...
   ImageView imageView = (ImageView) findViewById(R.id.my_image_view);
   
-  ImageLoader imageLoader=new ImageLoader(context);
+  ImageLoader imageLoader = new ImageLoader(context);
   
   imageLoader.DisplayImage(url, imageView);
 }
