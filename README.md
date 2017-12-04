@@ -1,4 +1,9 @@
 # Android Image Loader
+[![](https://jitpack.io/v/techstar-inc/image-loader.svg)](https://jitpack.io/#techstar-inc/image-loader)
+![minSdkVersion](https://img.shields.io/badge/minSdkVersion-14-yellow.svg?style=true)
+![compileSdkVersion](https://img.shields.io/badge/compileSdkVersion-26-green.svg?style=true)
+
+
 Easy, sample and flexible library for loading, caching and displaying images on Android.
 
 How to include
