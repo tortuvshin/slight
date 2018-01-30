@@ -20,7 +20,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.techstar-inc:image-loader:v1.0.0'
+    compile 'com.github.techstar-cloud:image-loader:v1.1.0'
 }
 ```
 
@@ -35,9 +35,9 @@ Or declare it into your `pom.xml`:
 </repositories>
 
 <dependency>
-    <groupId>com.github.techstar-inc</groupId>
+    <groupId>com.github.techstar-cloud</groupId>
     <artifactId>image-loader</artifactId>
-    <version>v1.0.0</version>
+    <version>v1.1.0</version>
 </dependency>
 ```
 
