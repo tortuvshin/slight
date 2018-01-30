@@ -1,4 +1,4 @@
-package agency.techstar.imageloader;
+package cloud.techstar.imageloader;
 
 import org.junit.Test;
 

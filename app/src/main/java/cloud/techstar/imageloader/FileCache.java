@@ -1,11 +1,13 @@
-package agency.techstar.imageloader;
+package cloud.techstar.imageloader;
 
 import android.content.Context;
 
 import java.io.File;
 
 /**
- * Created by turtuvshin on 10/14/17.
+ * @author Turtuvshin Byambaa
+ * Copyright (C) 2018 Techstar, Inc.
+ * www.techstar.cloud
  */
 
 public class FileCache {
