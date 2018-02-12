@@ -51,7 +51,8 @@ add the following permissions to your AndroidManifest.xml:
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
-```js
+Java
+```java
 
 @Override 
 public void onCreate(Bundle savedInstanceState) {
@@ -64,4 +65,15 @@ public void onCreate(Bundle savedInstanceState) {
 }
 ```
 
+Kotlin
+```kotlin
+override fun onCreate(savedInstanceState: Bundle?) {
+    ...
+    val imageView = findViewById(R.id.my_image_view) as ImageView
+
+    val imageLoader = ImageLoader(this)
+
+    imageLoader.DisplayImage(url, imageView)
+}
+```
     
