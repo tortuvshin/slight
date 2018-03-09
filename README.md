@@ -1,7 +1,6 @@
 # Android Image Loader
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ac691a10e7d04e00b54bd36df47feb26)](https://www.codacy.com/app/tortuvshin/slight?utm_source=github.com&utm_medium=referral&utm_content=techstar-cloud/slight&utm_campaign=badger)
 [![](https://jitpack.io/v/techstar-cloud/slight.svg)](https://jitpack.io/#techstar-cloud/slight)
-[![](https://jitpack.io/v/techstar-cloud/slight/month.svg)](https://jitpack.io/#techstar-cloud/slight)
 ![minSdkVersion](https://img.shields.io/badge/minSdkVersion-14-yellow.svg?style=true)
 ![compileSdkVersion](https://img.shields.io/badge/compileSdkVersion-26-green.svg?style=true)
 
