@@ -1,4 +1,4 @@
-package cloud.techstar.imageloader
+package systems.intelligo.slight
 
 import android.graphics.Bitmap
 import android.util.Log
@@ -7,7 +7,9 @@ import java.util.Collections
 import java.util.LinkedHashMap
 
 /**
- * Created by turtuvshin on 10/14/17.
+ * @author Turtuvshin Byambaa
+ * Copyright (C) 2019 Intelligo Systems
+ * www.intelligo.systems
  */
 
 class MemoryCache {

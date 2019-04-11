@@ -1,4 +1,4 @@
-package cloud.techstar.imageloader
+package systems.intelligo.slight
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -22,7 +22,9 @@ import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 
 /**
- * Created by turtuvshin on 10/14/17.
+ * @author Turtuvshin Byambaa
+ * Copyright (C) 2019 Intelligo Systems
+ * www.intelligo.systems
  */
 
 class ImageLoader(context: Context) {

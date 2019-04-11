@@ -1,4 +1,4 @@
-package cloud.techstar.imageloader
+package systems.intelligo.slight
 
 import android.content.Context
 
@@ -6,8 +6,8 @@ import java.io.File
 
 /**
  * @author Turtuvshin Byambaa
- * Copyright (C) 2018 Techstar, Inc.
- * www.techstar.cloud
+ * Copyright (C) 2019 Intelligo Systems
+ * www.intelligo.systems
  */
 
 class FileCache(context: Context) {
