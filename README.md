@@ -1,6 +1,6 @@
 # Android Image Loader
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ac691a10e7d04e00b54bd36df47feb26)](https://www.codacy.com/app/tortuvshin/slight?utm_source=github.com&utm_medium=referral&utm_content=techstar-cloud/slight&utm_campaign=badger)
-[![](https://jitpack.io/v/techstar-cloud/slight.svg)](https://jitpack.io/#techstar-cloud/slight)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ff361fd6661f4906bc2f582ab1a71399)](https://www.codacy.com/app/tortuvshin/slight?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=intelligo-systems/slight&amp;utm_campaign=Badge_Grade)
+[![](https://jitpack.io/v/intelligo-systems/slight.svg)](https://jitpack.io/#intelligo-systems/slight)
 ![minSdkVersion](https://img.shields.io/badge/minSdkVersion-14-yellow.svg?style=true)
 ![compileSdkVersion](https://img.shields.io/badge/compileSdkVersion-26-green.svg?style=true)
 
@@ -19,7 +19,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.intelligo-systems:slight:v1.1.1'
+    compile 'com.github.intelligo-systems:slight:v1.1.2'
 }
 ```
 
@@ -36,7 +36,7 @@ Or declare it into your `pom.xml`:
 <dependency>
     <groupId>com.github.intelligo-systems</groupId>
     <artifactId>slight</artifactId>
-    <version>v1.1.1</version>
+    <version>v1.1.2</version>
 </dependency>
 ```
 
