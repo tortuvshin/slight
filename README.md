@@ -19,7 +19,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.techstar-cloud:slight:v1.1.1'
+    compile 'com.github.intelligo-systems:slight:v1.1.1'
 }
 ```
 
@@ -34,7 +34,7 @@ Or declare it into your `pom.xml`:
 </repositories>
 
 <dependency>
-    <groupId>com.github.techstar-cloud</groupId>
+    <groupId>com.github.intelligo-systems</groupId>
     <artifactId>slight</artifactId>
     <version>v1.1.1</version>
 </dependency>
